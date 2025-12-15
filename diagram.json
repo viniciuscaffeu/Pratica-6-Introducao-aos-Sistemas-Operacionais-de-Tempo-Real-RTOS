@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "author": "Guilherme Mendonça Gregório e Vinicius de Souza Caffeu",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 148.7, "left": 215.8, "attrs": {} },
+    { "type": "wokwi-mpu6050", "id": "imu1", "top": 99.82, "left": 21.52, "attrs": {} },
+    { "type": "wokwi-lcd2004", "id": "lcd1", "top": -80, "left": 188, "attrs": { "pins": "i2c" } }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "imu1:VCC", "esp:VIN", "red", [ "h28.88", "v201.6" ] ],
+    [ "lcd1:VCC", "imu1:VCC", "red", [ "h0" ] ],
+    [ "lcd1:GND", "imu1:GND", "black", [ "h0" ] ],
+    [ "imu1:GND", "esp:GND.2", "black", [ "v-9.6", "h57.68", "v201.7" ] ],
+    [ "imu1:SCL", "lcd1:SCL", "green", [ "v0" ] ],
+    [ "lcd1:SCL", "esp:D22", "green", [ "h-28.8", "v134.7", "h182.4", "v67.2" ] ],
+    [ "lcd1:SDA", "esp:D21", "green", [ "h-38.4", "v163.4", "h201.6", "v76.8" ] ],
+    [ "imu1:SDA", "lcd1:SDA", "green", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
