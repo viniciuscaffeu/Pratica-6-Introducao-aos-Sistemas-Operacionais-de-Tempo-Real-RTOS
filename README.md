@@ -1,4 +1,8 @@
 # 🚀 Sistema Multitarefa com FreeRTOS na ESP32
+**Autor:** Guilherme Mendonça Gregório e Vinicius de Souza Caffeu  
+**Disciplina:** SEL0337 – Projetos em Sistemas Embarcados  
+**Instituição:** Escola de Engenharia Elétrica – USP  
+
 ## Monitoramento MPU6050 com Processamento Multinúcleo
 
 [![ESP32](https://img.shields.io/badge/ESP32-FreeRTOS-blue.svg)](https://www.freertos.org/)
