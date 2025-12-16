@@ -4,12 +4,10 @@
 ---
 
 **Integrantes do Grupo:**
-- Nome Completo 1 - Nº USP: XXXXXXXX
-- Nome Completo 2 - Nº USP: XXXXXXXX
-- Nome Completo 3 - Nº USP: XXXXXXXX
-- Nome Completo 4 - Nº USP: XXXXXXXX
-
-**Data:** Dezembro de 2024
+- Guilherme Mendonça Gregório - Nº USP: XXXXXXXX
+- Vinicius de Souza Caffeu - Nº USP: 11965713
+- 
+Dezembro de 2025
 
 ---
 
@@ -1202,9 +1200,6 @@ Este documento cobre:
 - **Conexão com Parte 3:** Ambos envolvem sistemas embarcados com múltiplos sensores, processamento em tempo real e interface com usuário
 
 ---
-
-**Elaborado por:**  
-[SUBSTITUIR PELOS NOMES E Nº USP DOS INTEGRANTES]
 
 **Data de Entrega:**  
 Dezembro de 2024
