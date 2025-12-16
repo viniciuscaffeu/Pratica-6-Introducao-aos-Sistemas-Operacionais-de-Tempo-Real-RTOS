@@ -2,6 +2,14 @@
 **Autor:** Guilherme Mendonça Gregório e Vinicius de Souza Caffeu  
 **Disciplina:** SEL0337 – Projetos em Sistemas Embarcados  
 **Instituição:** Escola de Engenharia Elétrica – USP  
+
+## 📑 Navegação Rápida
+
+- [📋 Parte 1 - Caracterização de Sistemas Embarcados](#Parte1_2)
+- [🏗️ Parte 2 - Abordagem Co-Design](#Parte1_2)
+- [💻 Parte 3 - FreeRTOS na ESP32](README.md)
+
+
 ## Monitoramento MPU6050 com Processamento Multinúcleo
 
 [![ESP32](https://img.shields.io/badge/ESP32-FreeRTOS-blue.svg)](https://www.freertos.org/)
