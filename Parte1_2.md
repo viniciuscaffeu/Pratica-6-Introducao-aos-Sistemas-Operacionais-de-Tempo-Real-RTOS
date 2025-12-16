@@ -21,7 +21,7 @@ Dezembro de 2025
 **Fabricante:** Google LLC (anteriormente Nest Labs)  
 **Categoria:** Termostato inteligente para controle de climatização residencial
 
-![Nest Thermostat (https://store.google.com/us/product/nest_thermostat?hl=en-US&pli=1)
+![Nest Thermostat] (https://store.google.com/us/product/nest_thermostat?hl=en-US&pli=1)
 
 ### 1.2 Funções Principais
 
