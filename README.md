@@ -5,8 +5,8 @@
 
 ## 📑 Navegação Rápida
 
-- [📋 Parte 1 - Caracterização de Sistemas Embarcados](#Parte1_2)
-- [🏗️ Parte 2 - Abordagem Co-Design](#Parte1_2)
+- [📋 Parte 1 - Caracterização de Sistemas Embarcados](https://github.com/viniciuscaffeu/Pratica-6-Introducao-aos-Sistemas-Operacionais-de-Tempo-Real-RTOS/blob/main/Parte1_2.md)
+- [🏗️ Parte 2 - Abordagem Co-Design](https://github.com/viniciuscaffeu/Pratica-6-Introducao-aos-Sistemas-Operacionais-de-Tempo-Real-RTOS/blob/main/Parte1_2.md)
 - [💻 Parte 3 - FreeRTOS na ESP32](README.md)
 
 
