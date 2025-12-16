@@ -2,7 +2,6 @@
 **Autor:** Guilherme Mendonça Gregório e Vinicius de Souza Caffeu  
 **Disciplina:** SEL0337 – Projetos em Sistemas Embarcados  
 **Instituição:** Escola de Engenharia Elétrica – USP  
-
 ## Monitoramento MPU6050 com Processamento Multinúcleo
 
 [![ESP32](https://img.shields.io/badge/ESP32-FreeRTOS-blue.svg)](https://www.freertos.org/)
@@ -446,6 +445,29 @@ TickType_t timeOut = pdMS_TO_TICKS(1000);  // 1000ms = 1s
 
 Se uma task não conseguir adquirir o mutex em 1 segundo, ela **não bloqueia indefinidamente** e pode tomar ações corretivas.
 
+### 🧪 Procedimento de Teste
+
+1. **Verificação de Endereços I2C**
+   ```bash
+   # Use o I2C Scanner para verificar
+   # MPU6050: 0x68
+   # LCD: 0x27
+   ```
+
+2. **Upload do Código**
+   - Conecte a ESP32 via USB
+   - Selecione a placa e porta corretas
+   - Faça o upload do código
+
+3. **Monitoramento Serial**
+   - Abra o Serial Monitor (115200 baud)
+   - Verifique mensagens de inicialização
+
+4. **Teste de Funcionamento**
+   - Movimente o sensor MPU6050
+   - Observe as mudanças no LCD
+   - Valores de aceleração devem mudar
+
 ---
 
 ## 💻 Código Fonte Comentado
@@ -610,6 +632,25 @@ void loop() {
   vTaskDelay(pdMS_TO_TICKS(100));  // Delay mínimo
 }
 ```
+
+---
+
+## 🖼️ Imagens e Vídeos do Projeto
+
+### 📹 Vídeo de Demonstração
+
+
+https://github.com/user-attachments/assets/3949fd68-5e14-4b22-b967-8f1bdeb37efe
+
+
+---
+
+### 📸 Imagens da Montagem
+
+#### Circuito Completo
+
+<img width="676" height="615" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7497a8a1-76dd-4b6b-838e-3b19a450e74c" />
+
 
 ---
 
