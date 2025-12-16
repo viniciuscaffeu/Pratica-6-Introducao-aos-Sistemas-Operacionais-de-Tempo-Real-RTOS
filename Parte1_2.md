@@ -4,7 +4,7 @@
 ---
 
 **Integrantes do Grupo:**
-- Guilherme Mendonça Gregório - Nº USP: XXXXXXXX
+- Guilherme Mendonça Gregório - Nº USP: 12688511
 - Vinicius de Souza Caffeu - Nº USP: 11965713
 - 
 Dezembro de 2025
@@ -1201,9 +1201,3 @@ Este documento cobre:
 
 ---
 
-**Data de Entrega:**  
-Dezembro de 2024
-
-**Disciplina:**  
-SEL0337 - Projetos em Sistemas Embarcados  
-Escola de Engenharia de São Carlos (EESC-USP)
