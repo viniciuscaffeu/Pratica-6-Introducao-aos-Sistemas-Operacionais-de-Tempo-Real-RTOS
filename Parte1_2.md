@@ -6,7 +6,7 @@
 **Integrantes do Grupo:**
 - Guilherme Mendonça Gregório - Nº USP: 12688511
 - Vinicius de Souza Caffeu - Nº USP: 11965713
-- 
+
 Dezembro de 2025
 
 ---
@@ -45,6 +45,21 @@ Dezembro de 2025
 - **Público-alvo:** Proprietários de imóveis interessados em eficiência energética e tecnologia
 - **Faixa de preço:** Premium ($249 USD aproximadamente)
 - **Concorrentes:** Ecobee SmartThermostat, Honeywell Home T9, Amazon Smart Thermostat
+
+![nest1](https://github.com/user-attachments/assets/668a78ff-95ee-4bd7-8a0d-bde6d2750b96)
+
+Figura 1 - Nest Thermostat sendo instalado
+
+![nest3](https://github.com/user-attachments/assets/84fb4680-f741-41ad-a7e5-99850b47e448)
+
+Figura 2 - Partes que compõem o Nest Thermostat
+
+![nest2](https://github.com/user-attachments/assets/907c7c11-f8cc-4409-903d-862cae48fdd2)
+
+Figura 3 - Montagem do Nest Thermostat
+
+
+
 
 ---
 
