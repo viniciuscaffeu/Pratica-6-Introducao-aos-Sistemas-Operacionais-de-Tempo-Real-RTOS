@@ -230,7 +230,7 @@ Figura 3 - Montagem do Nest Thermostat
 #### Gerenciamento de Energia (PMIC)
 - **Chip:** Texas Instruments TPS65xxx (família de PMICs)
 - **Funções:**
-  - Carregamento inteligente da bateria (CC/CV)
+  - Carregamento inteligente de bateria (CC/CV)
   - Proteção contra sobrecarga e descarga profunda
   - Power sequencing (sequência de ligamento dos rails)
   - Thermal shutdown (desligamento por superaquecimento)
