@@ -1,4 +1,4 @@
-# 🚀 Sistema Multitarefa com FreeRTOS na ESP32
+# 🚀 Sistema Multitarefa com FreeRTOS na ESP32 (Parte 3)
 **Autor:** Guilherme Mendonça Gregório e Vinicius de Souza Caffeu  
 **Disciplina:** SEL0337 – Projetos em Sistemas Embarcados  
 **Instituição:** Escola de Engenharia Elétrica – USP  
